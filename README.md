@@ -8,6 +8,7 @@
  🤓 I also like to code sometimes... <br/><br/>
  💌 Reach me anytime at <a href="mailto:jadewtu@gmail.com" target="_blank">jadewtu@gmail.com</a><br/><br/>
  🔗 Connect with me on <a href="https://www.linkedin.com/in/jadetu/" target="_blank">LinkedIn</a><br><br>
+ 🌸 <a href="https://jade2u.github.io/portfolio/" target="_blank">Check out my portfolio page!</a>
 </p>
 
 <h3>Languages & Frameworks</h3>
@@ -33,7 +34,4 @@
 ![Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br><br>
-<h2>🌸 <a href="https://jade2u.github.io/portfolio/" target="_blank">Check out my portfolio page!</a></h2>
 
