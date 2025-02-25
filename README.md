@@ -1,22 +1,28 @@
-## 👋 Hi, I'm Jade!
+<div align="center">
+ <h1>👋 Hi, I'm Jade!</h1>
+</div>
+<br>
 
+### About Me 
 <p>
- 🎨 I'm a multimedia designer interested in web, marketing, and brand design<br/><br/>
- 👩🏻‍💻 I'm a recent graduate of NYU majoring in Interactive Media Arts with a Business of Entertainment, Media, and Technology focud<br/><br/>
- 🤓 I also like to code sometimes... <br/><br/>
- 💌 Reach me anytime at <a href="mailto:jadewtu@gmail.com" target="_blank">jadewtu@gmail.com</a><br/><br/>
- 🔗 Connect with me on <a href="https://www.linkedin.com/in/jadetu/" target="_blank">LinkedIn</a><br><br>
+ 🌸 &ensp; Multimedia designer interested in web, marketing, and brand design <br><br>
+ 👩🏻‍💻 &ensp; Recent graduate of NYU majoring in Interactive Media Arts with a Business of Entertainment, Media, and Technology focus <br><br>
+ 🤓 &ensp; Hobbies include reading graphic novels, going to concerts, and coding (sometimes) <br><br>
+ 💌 &ensp; Feel free to reach out  through <a href="mailto:jadewtu@gmail.com" target="_blank">email</a> or <a href="https://www.linkedin.com/in/jadetu/" target="_blank">LinkedIn</a>!
 </p>
-<h3>Check out my</h3>
+<br>
+
+
+### My Stuff
 <p>
- 🌟 <a href="/portfolio.pdf" target="_blank">Portfolio</a> <br></br>
- ⚡️ <a href="https://jade2u.github.io/portfolio/" target="_blank">Website</a>
- 
+ 🌟 &ensp; <a href="/portfolio.pdf" target="_blank">Portfolio</a> for all my projects & in-depth case studies <br><br>
+ ⚡️ &ensp; <a href="https://jade2u.github.io/portfolio/" target="_blank">Website</a> for a quick look at some selected projects <br><br>
+ 📒 &ensp; <a href="/Tu, Jade Resume.pdf" target="_blank">Resume</a> for my professional experience <br><br>
 </p>
- 
+<br>
 
-<h3>Languages & Frameworks</h3>
 
+### What I Use
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -29,8 +35,6 @@
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 <br><br>
-
-<h3>Design Tools</h3>
 
 ![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
