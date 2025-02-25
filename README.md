@@ -1,13 +1,13 @@
 ## 👋 Hi, I'm Jade!
 
 <p>
- 🎨 I'm a multimedia designer interested in UI desing & brand design<br/><br/>
- 👩🏻‍💻 I'm currently attending NYU with a major in Interactive Media Arts and minor in Business of Entertainment, Media, and Technology<br/><br/>
+ 🎨 I'm a multimedia designer interested in web, marketing, and brand design<br/><br/>
+ 👩🏻‍💻 I'm a recent graduate of NYU majoring in Interactive Media Arts with a Business of Entertainment, Media, and Technology focud<br/><br/>
  🤓 I also like to code sometimes... <br/><br/>
  💌 Reach me anytime at <a href="mailto:jadewtu@gmail.com" target="_blank">jadewtu@gmail.com</a><br/><br/>
  🔗 Connect with me on <a href="https://www.linkedin.com/in/jadetu/" target="_blank">LinkedIn</a><br><br>
 </p>
-<h2>🌸 Check out my portfolio <a href="https://jade2u.github.io/portfolio/" target="_blank">site</a> or <a href="/portfolio.pdf" target="_blank">PDF</a> </h2>
+<h2>🌸 Check out my portfolio <a href="https://jade2u.github.io/portfolio/" target="_blank">site</a> or <a href="/portfolio.pdf" target="_blank">PDF</a>!</h2>
 
 <h3>Languages & Frameworks</h3>
 
