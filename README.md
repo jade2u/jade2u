@@ -7,7 +7,13 @@
  💌 Reach me anytime at <a href="mailto:jadewtu@gmail.com" target="_blank">jadewtu@gmail.com</a><br/><br/>
  🔗 Connect with me on <a href="https://www.linkedin.com/in/jadetu/" target="_blank">LinkedIn</a><br><br>
 </p>
-<h2>🌸 Check out my portfolio <a href="/portfolio.pdf" target="_blank">PDF</a> or <a href="https://jade2u.github.io/portfolio/" target="_blank">site</a>!</h2>
+<h3>Check out my</h3>
+<p>
+ 🌟 <a href="/portfolio.pdf" target="_blank">Portfolio</a> <br></br>
+ ⚡️ <a href="https://jade2u.github.io/portfolio/" target="_blank">Website</a>
+ 
+</p>
+ 
 
 <h3>Languages & Frameworks</h3>
 
